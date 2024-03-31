@@ -1,0 +1,9 @@
+.font-medieval {
+  font-family: "MedievalSharp", serif; /* Replace 'YourMedievalFont' with your imported font */
+  font-weight: 400;
+  font-style: normal;
+  text-transform: uppercase;
+  color: #333;
+  letter-spacing: 1px;
+  font-size: 42px;
+}
